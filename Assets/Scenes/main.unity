@@ -520,7 +520,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6758771783366067806, guid: fb78958bc3fe0e04a8f59374b30942ae, type: 3}
       propertyPath: m_Name
-      value: Sphere
+      value: Yukidaruma
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

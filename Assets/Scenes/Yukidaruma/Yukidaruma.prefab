@@ -330,7 +330,7 @@ GameObject:
   - component: {fileID: 1800411249156211743}
   - component: {fileID: 2105398995270361603}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Yukidaruma
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
